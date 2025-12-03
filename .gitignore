@@ -1,0 +1,14 @@
+# Build cache
+.gocache/
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Dependency directories (vendored)
+vendor/
